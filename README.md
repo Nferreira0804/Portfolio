@@ -2,8 +2,6 @@
 
 Welcome to my portfolio! This is a high-performance, visually stunning web application built with **React 19**, **Three.js**, and **Tailwind CSS 4**. It features interactive 3D models, smooth GSAP animations, and a modern, glassmorphic design.
 
-![Portfolio Preview](https://Nferreira0804.github.io/Portfolio/preview.png) *(Note: Add a real preview image path if available)*
-
 ## ✨ Features
 
 - **3D Interactive Models**: Leverages `@react-three/fiber` and `@react-three/drei` for immersive 3D experiences (Fox, Cup, etc.).
@@ -65,10 +63,3 @@ This project is configured to deploy automatically to GitHub Pages:
 npm run deploy
 ```
 Visit the live site here: [Nferreira0804.github.io/Portfolio/](https://Nferreira0804.github.io/Portfolio/)
-
-## 📄 License
-
-This project is for personal showcase purposes. All rights reserved.
-
----
-Built by [Nferreira0804](https://github.com/Nferreira0804)
