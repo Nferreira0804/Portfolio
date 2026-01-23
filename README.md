@@ -2,8 +2,6 @@
 
 Welcome to my portfolio! This is a high-performance web application built with **React 19**, **Three.js**, and **Tailwind CSS 4**. It features an immersive 3D environment and a premium glassmorphic interface.
 
-![Portfolio Preview](https://Nferreira0804.github.io/Portfolio/preview.png)
-
 ## ✨ Features
 
 - **3D Immersive Environment**: Powered by `@react-three/fiber` and `@react-three/drei`.
@@ -67,10 +65,3 @@ npm run optimize-models
 npm run deploy
 ```
 Visit the live site: [Nferreira0804.github.io/Portfolio/](https://Nferreira0804.github.io/Portfolio/)
-
-## 📄 License
-
-This project is for personal showcase purposes. All rights reserved.
-
----
-Built by [Nferreira0804](https://github.com/Nferreira0804)
